@@ -1,5 +1,5 @@
-Dom Casmurro - Machado de Assis - 1899
-O Cortiço - Aluísio Azevedo - 1890
-senhor dos aneis
-miseraveis
-entendendo algoritimos
+Dom Casmurro - Machado de Assis - 1899 | Romance
+O Cortiço - Aluísio Azevedo - 1890 | Romance
+Senhor dos Anéis | Fantasia
+Os Miseráveis | Romance
+Entendendo Algoritmos | Tecnologia
